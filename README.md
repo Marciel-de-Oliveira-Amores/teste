@@ -1,9 +1,10 @@
-# Olá, eu sou [Seu Nome]! 👋
+
+# Olá, eu sou [Marciel]! 👋
 
 Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Aqui estão algumas informações sobre mim:
 
 ## Sobre Mim
-- 🌱 Atualmente estou aprendendo Python e React.
+- 🌱 Atualmente estou aprendendo Python e .
 - 💡 Tenho interesse em desenvolvimento web, ciência de dados e aprendizado de máquina.
 - 🎮 Nas horas vagas, gosto de jogar videogames e explorar novas trilhas de mountain bike.
 
@@ -20,8 +21,8 @@ Outro projeto incrível que desenvolvi. Ele resolve o problema X usando Y e Z.
 - SQL 📊
 
 ## Contato
-- LinkedIn: Seu Perfil no LinkedIn
-- E-mail: [seu@email.com]
+- LinkedIn:[ Seu Perfil no LinkedIn](https://www.linkedin.com/feed/)
+- E-mail: [marcielamores@gmail.com]
 
 ## Estatísticas do GitHub
 !Estatísticas do GitHub
